@@ -1,16 +1,23 @@
-## Hi, I'm Carlos Sánchez 👋
+# 👋 Hi there! I'm Carlos Sánchez
 
-<!--
-**SanchezLanchaCarlos/SanchezLanchaCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer passionate about building scalable and maintainable applications.  
+Currently focused on working with **Java** and **Spring Boot**, but also experienced with:
 
-Here are some ideas to get you started:
+- ☕ Java (Spring Boot, Spring Data, Spring Security)
+- 🌐 Frontend: JSF, React, HTML, CSS, JavaScript, TypeScript
+- 🐍 Python, C#, Kotlin
+- 🛠️ Tools: Git, Eclipse, Maven, REST APIs, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 🎓 Graduated in Multiplatform Application Development
+- 👨‍💻 I enjoy writing clean, readable and well-structured code
+- 🚀 Always learning and looking to grow as a backend developer
+- 🤝 Open to collaboration and new opportunities
+
+## 📫 How to reach me
+
+- LinkedIn: [Carlos Sánchez Lancha](www.linkedin.com/in/carlos-sánchez-lancha-5a941613b)
+- Email: carlos.sanchez.lancha@gmail.com
+
+Thanks for visiting! 😊
