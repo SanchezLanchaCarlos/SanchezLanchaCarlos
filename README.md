@@ -3,10 +3,10 @@
 I'm a backend developer passionate about building scalable and maintainable applications.  
 Currently focused on working with **Java** and **Spring Boot**, but also experienced with:
 
-- ☕ Java (Spring Boot, Spring Data, Spring Security)
-- 🌐 Frontend: JSF, React, HTML, CSS, JavaScript, TypeScript
+- ☕ Java (Spring Boot, Spring Data JPA, Spring Security)
+- 🌐 Frontend: React, HTML, CSS, JavaScript, TypeScript
 - 🐍 Python, C#, Kotlin
-- 🛠️ Tools: Git, Eclipse, Maven, REST APIs, SQL
+- 🛠️ Tools: Git, Eclipse, IntelliJ IDEA, Maven, REST APIs, SQL
 
 ## 🔍 About Me
 
